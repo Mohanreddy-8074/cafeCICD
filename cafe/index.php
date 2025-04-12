@@ -44,7 +44,7 @@
 			<table>
 				<tr>
 					<td bgcolor="aquamarine">
-						<div class="cursiveText">Frank bakes a rich variety of cookies. Try them all!</div>
+						<div class="cursiveText">Mohanjosh bakes a rich variety of cookies. Try them all!</div>
 						<table>
 							<tr>
 								<td><img src="images/Cookies.jpg" height=auto width="300"></td>
@@ -60,7 +60,7 @@
 						</table>
 					</td>
 					<td bgcolor="aquamarine">
-						<div class="cursiveText">Our tarts are always <br/> a customer favorite!<br><br>
+						<div class="cursiveText">Our Cafe are always <br/> a customer favorite!<br><br>
 					  </div>
 						<table>
 							<tr>
@@ -83,7 +83,7 @@
 			<table>
 				<tr>
 					<td><img src="images/Frank-Martha.jpg" height=auto width="400"></td>
-					<td><p>Frank and Martha have been adding sweetness to their customers' lives since 2020.  Frank's recipes have been passed down from his mother and use simple and fresh ingredients to produce delightful flavors.  Both of them will personally greet you with a welcoming smile when you visit!</p></td>
+					<td><p>Mohan and Joshnavi have been adding sweetness to their customers' lives since 2020.  Mohan's recipes have been passed down from his mother and use simple and fresh ingredients to produce delightful flavors.  Both of them will personally greet you with a welcoming smile when you visit!</p></td>
 				</tr>
 			</table>
 			<hr>
@@ -103,7 +103,7 @@
 		<div>
 			<h3>Hours</h3>
 		</div>
-		<div>Weekdays: 6:00am - 6:00pm<br>Saturday: 7:00am - 7:00pm<br>Closed on Sundays</div>
+		<div>Weekdays: 6:00am - 9:00pm<br>Saturday: 9:00am - 11:00pm<br>Closed on Sundays</div>
 	</div>
 
 	<div id="Copyright" class="center">
